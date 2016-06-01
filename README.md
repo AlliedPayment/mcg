@@ -1,3 +1,8 @@
+###Purpose of Fork           
+Used to quickly generate Compact View themes
+Generated theme should be placed in
+`~/Smallbiz.MVC/Modules/Shared/FiThemeProvider.js`
+
 # Material Design Color Generator
 A tool for generating a color palette for Material Design.
 ###<a href="http://mcg.mbitson.com/">Click here to view the tool!</a>
