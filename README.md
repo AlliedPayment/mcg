@@ -1,6 +1,6 @@
 ###Purpose of Fork           
 Used to quickly generate Compact View themes         
-Generated theme should be placed in
+Generated theme should be placed in          
 `~/Smallbiz.MVC/Modules/Shared/FiThemeProvider.js`
 
 # Material Design Color Generator
